@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Error Correcting Encoder-Decoder/task/build/
